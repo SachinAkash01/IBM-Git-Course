@@ -1,2 +1,2 @@
 # IBM-Git-Course
-IBM - Getting started with Git and GitHub
+IBM - Getting Started With Git & GitHub
